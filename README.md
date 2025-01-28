@@ -3,8 +3,7 @@
   This project demonstrates a simple sentiment analysis application using Python and the Natural Language Toolkit (NLTK). The application utilizes NLTK's SentimentIntensityAnalyzer from the VADER (Valence Aware Dictionary and sEntiment Reasoner) lexicon to evaluate the sentiment of an input text.
 
 ## Features
-
-Accepts user input as text.
+. Accepts user input as text.
 
 Analyzes the sentiment of the input text.
 
